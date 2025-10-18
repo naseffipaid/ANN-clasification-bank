@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore the dataset file
+Churn_Modelling.csv
+
+# (optional) also ignore other common junk
+__pycache__/
+*.pyc
+.DS_Store
+.env
